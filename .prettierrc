@@ -1,0 +1,16 @@
+{
+    "endOfLine": "auto",
+    "tabWidth": 2,
+    "useTabs": true,
+    "printWidth": 120,
+    "semi": true,
+    "trailingComma": "none",
+    "singleQuote": true,
+    "arrowParens": "avoid",
+    "overrides": [
+      {
+        "files": "*.ts",
+        "options": { "parser": "typescript" }
+      }
+    ]
+  }
